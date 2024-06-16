@@ -1,6 +1,6 @@
-# Project Title
+# User-Calculator
 
-Brief description of what the project does.
+This is a simple calculator program written in Python. It allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The program also supports continuous calculations with the result of the previous operation.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,4 +15,7 @@ Brief description of what the project does.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository.git
+   https://github.com/LucaSandru/User-Calculator.git
+2. Navigate to the project directory:
+   ```bash
+   cd repository
