@@ -6,10 +6,7 @@ This is a simple calculator program written in Python. It allows you to perform 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
-- [Something](#something)
 
 ## Installation
 
@@ -19,3 +16,8 @@ This is a simple calculator program written in Python. It allows you to perform 
 2. Navigate to the project directory:
    ```bash
    cd repository
+3. Install the dependencies:
+ ```bash
+   pip install -r requirements.txt
+
+##Usage
