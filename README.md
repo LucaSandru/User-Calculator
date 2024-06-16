@@ -5,8 +5,6 @@ This is a simple calculator program written in Python. It allows you to perform 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
-- [Contact](#contact)
 
 ## Installation
 
@@ -19,5 +17,19 @@ This is a simple calculator program written in Python. It allows you to perform 
 3. Install the dependencies:
  ```bash
    pip install -r requirements.txt
+```
 
-##Usage
+## Usage
+
+-a logo that describes a calculator finding from https://www.asciiart.eu/electronics/calculators
+-simple functions with inputs and outputs
+-while loop that repeats until condition of quit is made
+-importing to clear the page, by updating the compiler from my Pycharm to accept this transition
+
+### First, user has to input a number that is automatically an integer, else there will be an error
+### Then, user will be asked to introduce an operation from basic ones ( +, -, /, *)
+### After printing the second number, user will get the provided result, on type of (number1 operation number2 = result)
+### User will have 3 options:
+   - to continue (yield next result from the previous one - again introducing new operation and new number) - press 'y'
+   - to ask compiler to clear the terminal and to start again - press 'n'
+   - to quit calculator (program terminates) - press 'q'
